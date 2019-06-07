@@ -45,7 +45,7 @@
 
 
 //EVENTO 3: ADICIONANDO PALAVRAS NOVAS AO DIGITAR NO INPUT
-    var nomes = ['Diego', 'Gabriel', 'Lucas'];
+    var nomes = ['Renata', 'Gabriel', 'Lucas'];
     var listElement = document.querySelector('ul');
     var inputElement = document.querySelector('input');
     function addItem(text) {
