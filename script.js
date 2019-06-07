@@ -3,7 +3,7 @@
 // '=' atribui valor '==' verifica se o valor é igual '===' verifica se valor e tipagem são iguais
 // '&&' and '||' or '!==' not
 //
-//}
+//
     //var inputElement = document.getElementById(#nome)  //Busca um elemento com o id='sexo no html' retornando um único elemento
 
 
